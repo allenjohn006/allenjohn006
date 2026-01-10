@@ -3,34 +3,33 @@
 # Allen John Isac
 
 <p align="center">
-  <a href="https://github.com/allenjohn006"><img src="https://img.shields.io/badge/Profile%20views-841-6f42c1?style=for-the-badge" alt="profile views" /></a>
+  <a href="https://github.com/allenjohn006"><img src="https://komarev.com/ghpvc/?username=allenjohn006&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" /></a>
   <a href="https://linkedin.com/in/allen-john-isac"><img src="https://img.shields.io/badge/LinkedIn-allen--john--isac-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
-  <a href="https://github.com/allenjohn006"><img src="https://img.shields.io/badge/GitHub-19-181717?style=for-the-badge&logo=github" alt="github" /></a>
+  <a href="https://github.com/allenjohn006"><img src="https://img.shields.io/github/followers/allenjohn006?label=GitHub&style=flat&logo=github" alt="github followers" /></a>
 </p>
 
-> AI & Data Science student — building practical ML systems, RAG pipelines, and production-ready ML apps.
+> AI & Data Science student — building practical ML systems, RAG pipelines, and React web development projects.
+ Seeking: internships or entry-level roles in ML engineering, AI, or data science
 
-- 🔭 Currently: 2nd yr B.Tech in Artificial Intelligence & Data Science at Karunya Institute of Technology and Sciences
-- 📫 Contact: allen15022006@gmail.com · +91-9263213093
-- 🔗 GitHub: https://github.com/allenjohn006 · LinkedIn: https://linkedin.com/in/allen-john-isac
--- 📄 Resume: [View / Download PDF](./assets/Allen-john-isac%20Resume.pdf)
 
----
+<a href="./assets/Allen_John_Isac_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader">
+</a>
 
-## Summary
-
-Motivated AI & Data Science student with hands-on experience building ML systems and data products. Experienced in NLP, RAG (Retrieval-Augmented Generation), model deployment using Streamlit/Flask, and end-to-end ML pipelines. Strong collaborator with a focus on producing recruiter-ready deliverables: clear problem statements, measurable results, and polished demos.
-
-## Highlights
-
-- Languages & Tools: Python, Java, SQL, Git, Streamlit, Flask, Jupyter
-- ML & NLP: Scikit-learn, Pandas, NumPy, TF-IDF, Vector Search, Embeddings, RAG, LLM APIs
-- Databases & Platforms: MySQL, FAISS, GitHub, Streamlit apps
-- Seeking: internships or entry-level roles in ML engineering, NLP, or data science
 
 ---
 
-## Projects (select)
+## 👋 About Me
+
+I’m Allen John,currently persuing my 2nd yr B.Tech in Artificial Intelligence & Data Science at Karunya Institute of Technology and Sciences,
+
+A B.Tech student with a strong interest in Artificial Intelligence, Machine Learning, and Web Development, focused on building end-to-end, real-world applications rather than just isolated models.
+
+My work spans AI-powered systems, machine learning projects, and modern web applications, where I combine Python, JavaScript, and React with concepts like NLP, semantic search, embeddings, and Retrieval-Augmented Generation (RAG). I enjoy designing systems that are not only accurate, but also explainable, scalable, and user-friendly.
+
+---
+
+## Projects 
 
 - **AI Resume Evaluator (RAG)** — Built a resume evaluation tool using semantic embeddings and Retrieval-Augmented Generation to compare candidate resumes with job descriptions and produce recruiter-style insights. Tech: Python, FAISS, Embeddings, LLM APIs, Streamlit.
 
@@ -39,14 +38,6 @@ Motivated AI & Data Science student with hands-on experience building ML systems
 - **E‑Commerce Sales Prediction** — Time-series / tabular model predicting marketplace sales using feature engineering and tree-based models (Random Forest, Gradient Boosting). Built visual dashboards for decision support.
 
 - **LLM Text Summarizer** — Command-line + REST API summarizer leveraging LLMs for concise, high-quality summaries. Tech: Python, Flask/FastAPI, LLM APIs.
-
----
-
-## Education
-
-**Karunya Institute of Technology and Sciences** — B.Tech in Artificial Intelligence & Data Science
-
-Current CGPA: 6.88
 
 ---
 
@@ -64,28 +55,10 @@ Current CGPA: 6.88
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=allenjohn006&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" alt="allenjohn006's contribution graph" />
 </p>
 
-## How to use this README (quick)
-
-1. (Optional) Add your profile image at `./assets/profile.jpeg` if you want it shown again.
-2. Your resume PDF is available at `./assets/Allen-john-isac Resume.pdf` — click the link above to open it in the browser or download.
-
----
-
----
-
-If you'd like, I can also:
-
-- add a compact skills table or star-rating
-- create a short Projects gallery with links to demos or notebooks
-- generate a downloadable PDF resume from these sections
-
----
-
 ## Connect With Me
 
-- 🔗 LinkedIn: [allen-john-isac](https://linkedin.com/in/allen-john-isac)
-- ✉️ Email: [allen15022006@gmail.com](mailto:allen15022006@gmail.com)
+- <a href="https://linkedin.com/in/allen-john-isac"><img src="https://img.shields.io/badge/LinkedIn-allen--john--isac-0077B5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+- <a href="mailto:allen15022006@gmail.com"><img src="https://img.shields.io/badge/Email-allen15022006%40gmail.com-D14836?style=flat&logo=gmail" alt="Email" /></a>
+- <a href="tel:+919263213093"><img src="https://img.shields.io/badge/Phone-%2B91%209263213093-25D366?style=flat&logo=phone" alt="Phone" /></a>
 
 ---
-
-_Last updated: Jan 2026_
