@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/allenjohn006"><img src="https://komarev.com/ghpvc/?username=allenjohn006&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" /></a>
-  <a href="https://linkedin.com/in/allen-john-isac"><img src="https://img.shields.io/badge/LinkedIn-allen--john--isac-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allen--John--Isaac-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-john-isac/)
   <a href="https://github.com/allenjohn006"><img src="https://img.shields.io/github/followers/allenjohn006?label=GitHub&style=flat&logo=github" alt="github followers" /></a>
 </p>
 
