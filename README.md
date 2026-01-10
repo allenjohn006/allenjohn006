@@ -1,20 +1,19 @@
-<!-- Profile images: place your profile / resume images into ./assets/ -->
-<p align="center">
-  <img src="./assets/profile.jpeg" alt="Profile" width="160" style="border-radius:80px" />
-</p>
+<!-- Profile image removed. To add later, place a file at ./assets/profile.jpeg and update this file. -->
 
 # Allen John Isac
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allenjohn006&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" alt="allenjohn006's contribution graph" />
+  <a href="https://github.com/allenjohn006"><img src="https://img.shields.io/badge/Profile%20views-841-6f42c1?style=for-the-badge" alt="profile views" /></a>
+  <a href="https://linkedin.com/in/allen-john-isac"><img src="https://img.shields.io/badge/LinkedIn-allen--john--isac-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://github.com/allenjohn006"><img src="https://img.shields.io/badge/GitHub-19-181717?style=for-the-badge&logo=github" alt="github" /></a>
 </p>
 
 > AI & Data Science student — building practical ML systems, RAG pipelines, and production-ready ML apps.
 
-- 🔭 Currently: B.Tech in Artificial Intelligence & Data Science at Karunya Institute of Technology and Sciences
+- 🔭 Currently: 2nd yr B.Tech in Artificial Intelligence & Data Science at Karunya Institute of Technology and Sciences
 - 📫 Contact: allen15022006@gmail.com · +91-9263213093
 - 🔗 GitHub: https://github.com/allenjohn006 · LinkedIn: https://linkedin.com/in/allen-john-isac
-- 📄 Resume (preview images): `./assets/resume1.png`, `./assets/resume2.png` · PDF: `./assets/Allen-john-isac Resume.pdf`
+-- 📄 Resume: [View / Download PDF](./assets/Allen-john-isac%20Resume.pdf)
 
 ---
 
@@ -61,21 +60,16 @@ Current CGPA: 6.88
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allenjohn006&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" alt="allenjohn006's contribution graph" />
+</p>
+
 ## How to use this README (quick)
 
-1. Add your profile image at `./assets/profile.jpeg` (replace as needed).
-2. The repo already includes `./assets/Allen-john-isac Resume.pdf`, `./assets/resume1.png` and `./assets/resume2.png`.
-3. The preview images are embedded below for convenience.
+1. (Optional) Add your profile image at `./assets/profile.jpeg` if you want it shown again.
+2. Your resume PDF is available at `./assets/Allen-john-isac Resume.pdf` — click the link above to open it in the browser or download.
 
 ---
-
-## Resume (preview)
-
-Below are image previews of your resume pages. They will render on GitHub.
-
-![Resume page 1](./assets/resume1.png)
-
-![Resume page 2](./assets/resume2.png)
 
 ---
 
@@ -84,6 +78,13 @@ If you'd like, I can also:
 - add a compact skills table or star-rating
 - create a short Projects gallery with links to demos or notebooks
 - generate a downloadable PDF resume from these sections
+
+---
+
+## Connect With Me
+
+- 🔗 LinkedIn: [allen-john-isac](https://linkedin.com/in/allen-john-isac)
+- ✉️ Email: [allen15022006@gmail.com](mailto:allen15022006@gmail.com)
 
 ---
 
