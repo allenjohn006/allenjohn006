@@ -5,6 +5,10 @@
 
 # Allen John Isac
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allenjohn006&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" alt="allenjohn006's contribution graph" />
+</p>
+
 > AI & Data Science student — building practical ML systems, RAG pipelines, and production-ready ML apps.
 
 - 🔭 Currently: B.Tech in Artificial Intelligence & Data Science at Karunya Institute of Technology and Sciences
