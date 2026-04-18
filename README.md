@@ -12,7 +12,7 @@
  Seeking: internships or entry-level roles in ML engineering, AI, or data science
 
 
-<a href="./assets/Allen_John_Isac_Resume.pdf">
+<a href="./assets/ALLEN_RESUME.pdf">
   <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader">
 </a>
 
