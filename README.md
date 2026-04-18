@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/allenjohn006"><img src="https://komarev.com/ghpvc/?username=allenjohn006&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" /></a>
-  <a href="https://www.linkedin.com/in/allen-john-isac/"><img src="https://img.shields.io/badge/LinkedIn-Allen--John--Isaac-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/allen-john-isac-7b6730363/"><img src="https://img.shields.io/badge/LinkedIn-Allen--John--Isac-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/allenjohn006"><img src="https://img.shields.io/github/followers/allenjohn006?label=GitHub&style=flat&logo=github" alt="github followers" /></a>
 </p>
 
@@ -44,9 +44,13 @@ My work spans AI-powered systems, machine learning projects, and modern web appl
 ## Technical Skills
 
 - Programming: Python, C, Java, SQL, HTML/CSS
+  
 - Data Science & ML: Pandas, NumPy, Scikit-learn, Feature Engineering, Model Evaluation
+  
 - NLP & AI: Text Preprocessing, TF-IDF, Classification Models, RAG, Vector Search, LLM Integration
+  
 - Tools: Git, GitHub, Streamlit, Jupyter Notebook
+  
 - Databases: MySQL, FAISS
 
 ---
