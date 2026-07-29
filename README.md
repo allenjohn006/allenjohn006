@@ -19,7 +19,7 @@
 
 ---
 
-## ⌨️ &nbsp;[ WHOAMI ]
+##  &nbsp;[ WHOAMI ]
 
 <table width="100%">
 <tr>
@@ -68,7 +68,7 @@ EMAIL      →  allen15022006@gmail.com
 
 ---
 
-## ⚡ &nbsp;[ TECH STACK ]
+##  &nbsp;[ TECH STACK ]
 
 <p align="center"><b>◆ &nbsp;Languages &nbsp;◆</b></p>
 
@@ -123,13 +123,13 @@ EMAIL      →  allen15022006@gmail.com
 
 ---
 
-## 🚀 &nbsp;[ FEATURED PROJECTS ]
+##  &nbsp;[ FEATURED PROJECTS ]
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 &nbsp;[RetailSense](https://github.com/allenjohn006/RetailSense)
+###  &nbsp;[RetailSense](https://github.com/allenjohn006/RetailSense)
 > AI-powered retail analytics & demand forecasting platform. Drag-and-drop CSV dashboard — auto-cleans data, full EDA, seasonality detection, and next-quarter sales forecasting.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -141,7 +141,7 @@ EMAIL      →  allen15022006@gmail.com
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ &nbsp;[OmniFlow](https://github.com/allenjohn006/OmniFlow)
+###  &nbsp;[OmniFlow](https://github.com/allenjohn006/OmniFlow)
 > End-to-end MLOps pipeline — statistical drift detection, champion-challenger auto-retraining, real-time inference on 3M+ rows. **R² = 0.88**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -155,7 +155,7 @@ EMAIL      →  allen15022006@gmail.com
 <tr>
 <td width="50%" valign="top">
 
-### 📄 &nbsp;[CVScope](https://github.com/allenjohn006/CVScope)
+###  &nbsp;[CVScope](https://github.com/allenjohn006/CVScope)
 > Resume–JD semantic matching using FAISS + RAG. Outputs match %, LLM-generated recruiter-style feedback with explainable recommendations.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -167,7 +167,7 @@ EMAIL      →  allen15022006@gmail.com
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ &nbsp;[VOX](https://github.com/allenjohn006/VOX) &nbsp;`🏆 Team Lead`
+###  &nbsp;[VOX](https://github.com/allenjohn006/VOX) &nbsp;` Team Lead`
 > Hands-free exam platform with voice login, face auth & auto-submit. Built for accessibility. Presented at **MindKraft 2026** · Certificate of Leadership.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -181,7 +181,7 @@ EMAIL      →  allen15022006@gmail.com
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 &nbsp;[CineMetric](https://github.com/allenjohn006/CineMetric)
+###  &nbsp;[CineMetric](https://github.com/allenjohn006/CineMetric)
 > Transforms **368,000+ IMDB records** into OTT acquisition signals — rich visual analytics for studios and content analysts making data-driven decisions.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -191,7 +191,7 @@ EMAIL      →  allen15022006@gmail.com
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ &nbsp;[Shellmate](https://github.com/allenjohn006/Shellmate)
+###  &nbsp;[Shellmate](https://github.com/allenjohn006/Shellmate)
 > AI terminal assistant — understands natural language commands and translates them into shell operations, making the CLI accessible and smart.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -203,7 +203,7 @@ EMAIL      →  allen15022006@gmail.com
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 &nbsp;[Sahayak Kiosk](https://github.com/allenjohn006/Sahayak_Kiosk) &nbsp;`🔧 In Progress`
+###  &nbsp;[Sahayak Kiosk](https://github.com/allenjohn006/Sahayak_Kiosk) &nbsp;`🔧 In Progress`
 > Offline voice-driven rural banking kiosk for low-connectivity environments. Structured field extraction + automated document generation from voice inputs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -213,7 +213,7 @@ EMAIL      →  allen15022006@gmail.com
 </td>
 <td width="50%" valign="top">
 
-### 🕹️ &nbsp;[Smart AI Tetris](https://github.com/allenjohn006/Smart-AI-Tetris-game)
+###  &nbsp;[Smart AI Tetris](https://github.com/allenjohn006/Smart-AI-Tetris-game)
 > Tetris with a live AI coach — heuristic search evaluates every rotation × column and highlights the optimal drop zone in real time.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -228,17 +228,17 @@ EMAIL      →  allen15022006@gmail.com
 
 ---
 
-## 🏆 &nbsp;[ ACHIEVEMENTS ]
+##  &nbsp;[ ACHIEVEMENTS ]
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
-║  🥇  Certificate of Leadership — ATOM Achievers Day 2026, Karunya                  ║
+║    Certificate of Leadership — ATOM Achievers Day 2026, Karunya                  ║
 ║       Led Team Glitch · Built & presented VOX at MindKraft 2026                    ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
-║  🚀  AI for Bharat Hackathon — Top Innovator · Prototype Development Phase         ║
+║    AI for Bharat Hackathon — Top Innovator · Prototype Development Phase         ║
 ║       AWS-powered · Organized by Hack2Skill · National Level Competition            ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
-║  🎤  MindKraft 2026 — International Techno-Management Fest · Karunya               ║
+║    MindKraft 2026 — International Techno-Management Fest · Karunya               ║
 ║       Presented VOX · Voice-first accessible examination platform                   ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -247,7 +247,7 @@ EMAIL      →  allen15022006@gmail.com
 
 ---
 
-## 📊 &nbsp;[ GITHUB STATS ]
+##  &nbsp;[ GITHUB STATS ]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allenjohn006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=1a56db&text_color=c9d1d9&border_radius=12" height="175"/>
@@ -272,7 +272,7 @@ EMAIL      →  allen15022006@gmail.com
 
 ---
 
-## 🤝 &nbsp;[ CONNECT WITH ME ]
+##  &nbsp;[ CONNECT WITH ME ]
 
 <p align="center">
   <a href="https://linkedin.com/in/allen-john-isac-7b6730363">
