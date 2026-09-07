@@ -285,7 +285,7 @@ EMAIL      →  allen15022006@gmail.com
 </p>
 
 <p align="center">
-  <i>"Low noise, high precision — building AI that ships."</i>
+  <i>"AI Builds FASTER Humans Build BETTER "</i>
 </p>
 
 <br/>
